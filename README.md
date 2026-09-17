@@ -1,32 +1,66 @@
 <div align="center">
 
-# Hei, jeg er Jacob 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:155e75,100:22c55e&height=220&section=header&text=jacwae&fontSize=76&fontColor=f8fafc&fontAlignY=38&desc=BUILD%20%E2%80%A2%20EXPLORE%20%E2%80%A2%20REPEAT&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-### Norsk student og utvikler som bygger ting som beveger seg, måler verden og fungerer ute i felt.
+<p>
+  <samp>
+    Norwegian student · robotics · autonomy · web · hardware
+  </samp>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-jacwae-181717?style=for-the-badge&logo=github)](https://github.com/jacwae)
-[![Profile views](https://komarev.com/ghpvc/?username=jacwae&style=for-the-badge&color=0ea5e9)](https://github.com/jacwae)
+<a href="https://github.com/jacwae">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/Located_in-Norway_🇳🇴-0d1117?style=flat-square" alt="Norway" />
 
 </div>
 
-<br />
+<br>
 
-## Om meg
+> I like building things that leave the screen: robots, systems, small experiments, and ideas that survive outside in the real world.
 
-Jeg er en norsk student og utvikler med stor interesse for robotikk, autonomi og tekniske prosjekter som faktisk gjør noe i den fysiske verden.
+## `~/now`
 
-Når jeg ikke bygger med kode, sensorer eller en Raspberry Pi, liker jeg å være ute — gjerne på sjøen eller på tur. Jeg trives best i skjæringspunktet mellom programvare, elektronikk og praktisk problemløsing.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```ts
-const jacob = {
-  location: "Norge 🇳🇴",
-  interests: [
-    "robotikk",
-    "autonome systemer",
-    "TypeScript og web",
-    "Raspberry Pi",
-    "bygging og eksperimentering",
-    "seiling og friluftsliv",
-  ],
-  currentlyBuilding: "prosjekter med kode, maskinvare og nysgjerrighet",
-};
+### 🧭 Helix
+
+Part of a team working with autonomous cars and robots.
+
+Thinking about how software, sensors, and good engineering come together to make machines understand their surroundings.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Tracking Turret
+
+Building a Raspberry Pi-powered tracking turret.
+
+A hands-on project at the intersection of hardware, control, and software.
+
+</td>
+</tr>
+</table>
+
+## Things I keep coming back to
+
+<div align="center">
+
+`TypeScript` &nbsp; `web` &nbsp; `robotics` &nbsp; `autonomy` &nbsp; `Raspberry Pi` &nbsp; `technical projects`
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+```text
+// away from the keyboard
+
+⛵ sailing
+🥾 being outside
+🔧 making ideas tangible
