@@ -1,62 +1,59 @@
-<div align="center">
+# 👋 Hi, I'm Jacob
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:155e75,100:22c55e&height=220&section=header&text=jacwae&fontSize=76&fontColor=f8fafc&fontAlignY=38&desc=BUILD%20%E2%80%A2%20EXPLORE%20%E2%80%A2%20REPEAT&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+🎓 **Student developer from Norway** — interested in robotics, autonomy, web development, and building technical projects that work outside the screen.
 
-<p>
-  <samp>
-    Norwegian student · robotics · autonomy · web · hardware
-  </samp>
+---
+
+## 🚀 What I'm working on
+
+- 🤖 **Helix** — contributing to an autonomous car and robotics team
+- 🎯 **Raspberry Pi tracking turret** — experimenting with tracking, hardware, and control
+- 🌐 Building and learning through web and TypeScript projects
+
+---
+
+## 📚 Currently exploring
+
+- Autonomous systems and robotics
+- Software connected to real-world hardware
+- Web development with TypeScript
+- Raspberry Pi projects, sensors, and practical electronics
+
+---
+
+## 🧰 Languages & tools
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌊 Outside of code
+
+- ⛵ Sailing
+- 🥾 Outdoor life
+- 🔧 Turning ideas into real projects
+
+---
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jacwae&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Jacob's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacwae&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Most used languages" />
 </p>
 
-<a href="https://github.com/jacwae">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<img src="https://img.shields.io/badge/Located_in-Norway_🇳🇴-0d1117?style=flat-square" alt="Norway" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacwae&bg_color=ffffff00&color=8b949e&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="GitHub contribution graph" />
+</p>
 
-</div>
+---
 
-<br>
-
-> I like building things that leave the screen: robots, systems, small experiments, and ideas that survive outside in the real world.
-
-## `~/now`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 Helix
-
-Part of a team working with autonomous cars and robots.
-
-Thinking about how software, sensors, and good engineering come together to make machines understand their surroundings.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Tracking Turret
-
-Building a Raspberry Pi-powered tracking turret.
-
-A hands-on project at the intersection of hardware, control, and software.
-
-</td>
-</tr>
-</table>
-
-## Languages & tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,git,github,raspberrypi&theme=dark" alt="TypeScript, JavaScript, HTML, CSS, Git, GitHub og Raspberry Pi" />
-
-<br><br>
-
-`TypeScript` &nbsp; `JavaScript` &nbsp; `HTML / CSS` &nbsp; `Git` &nbsp; `Raspberry Pi`
-
-</div>
-// away from the keyboard
-
-⛵ sailing
-🥾 being outside
-🔧 making ideas tangible
+<p align="center">
+  <i>Always building, always learning.</i>
+</p>
