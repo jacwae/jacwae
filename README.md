@@ -44,21 +44,17 @@ A hands-on project at the intersection of hardware, control, and software.
 </tr>
 </table>
 
-## Things I keep coming back to
+## Languages & tools
 
 <div align="center">
 
-`TypeScript` &nbsp; `web` &nbsp; `robotics` &nbsp; `autonomy` &nbsp; `Raspberry Pi` &nbsp; `technical projects`
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,git,github,raspberrypi&theme=dark" alt="TypeScript, JavaScript, HTML, CSS, Git, GitHub og Raspberry Pi" />
+
+<br><br>
+
+`TypeScript` &nbsp; `JavaScript` &nbsp; `HTML / CSS` &nbsp; `Git` &nbsp; `Raspberry Pi`
 
 </div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-```text
 // away from the keyboard
 
 ⛵ sailing
